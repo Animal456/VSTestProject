@@ -7,6 +7,11 @@
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
+        public void doSomething()
+        {
+
+        }
+
         /// <summary>
         /// Verwendete Ressourcen bereinigen.
         /// </summary>
